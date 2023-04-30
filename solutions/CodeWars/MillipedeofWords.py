@@ -1,4 +1,5 @@
 def solution(arr):
+    # Não terminada
     letras = {}
     retorno = True
     for i, v in enumerate(arr):
